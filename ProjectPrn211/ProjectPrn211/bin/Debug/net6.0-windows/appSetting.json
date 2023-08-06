@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DB": "server=DESKTOP-1S1HJFL;database=OrderFoodAndDrink;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"
+  }
+}
